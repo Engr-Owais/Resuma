@@ -1,0 +1,5 @@
+{
+  "name": "CV Forge AI",
+  "description": "A modern, highly animated AI CV Optimizer that rewrites resumes for specific job descriptions using Gemini 2.5.",
+  "requestFramePermissions": []
+}
